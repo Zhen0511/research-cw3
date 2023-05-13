@@ -1,0 +1,1 @@
+const availableImg = ["anbuselvan_heart","chen_2021_automated","herrera_2019_longterm","li_2021_predicting","sharma_predicting","sharma_survey","vanklompenburg_2020_crop","yuan_2020_long","zhao_futures","zulfiker_2021_an"];
